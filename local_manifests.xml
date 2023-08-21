@@ -2,7 +2,7 @@
 <manifest>
     
 <!-- Device Trees -->
-  <project path="device/xiaomi/twolip" name="EXPERT-JATT/device_xiaomi_twolip" remote="github" revision="rising13" />
+  <project path="device/xiaomi/twolip" name="EXPERT-JATT/device_xiaomi_twolip" remote="github" revision="tiramisu" />
 <!-- Vendor Trees -->
   <project path="vendor/xiaomi/twolip" name="xyz-sundram/vendor_xiaomi_twolip" remote="github" revision="tiramisu" />
 <!-- Kernel Trees -->
